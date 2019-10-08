@@ -67,11 +67,11 @@
 
 1.自行下载安装VMware WorkStation
 
-    任何版本都行，视自己机器的配置而定，比如VMware  WorkStation9，12，或者15都可，版本越高要求的机器配置越高。
+  任何版本都行，视自己机器的配置而定，比如VMware  WorkStation9，12，或者15都可，版本越高要求的机器配置越高。
 
-    我安装的是VMware Workstation Player 15 比VMware Workstation 15更小更轻量级，学生党推荐！
+   我安装的是VMware Workstation Player 15 比VMware Workstation 15更小更轻量级，学生党推荐！
 
-    [VMware Workstation Player](https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html)是在 Windows 或 Linux PC 上运行单一虚拟机的理想实用程序。各类组织利用 Workstation Player 交付代管企业桌面，而学生和教育工作者则用它来进行学习和培训。
+ [VMware Workstation Player](https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html)是在 Windows 或 Linux PC 上运行单一虚拟机的理想实用程序。各类组织利用 Workstation Player 交付代管企业桌面，而学生和教育工作者则用它来进行学习和培训。
 
 2.下载[CentOS7.6](http://mirrors.aliyun.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso)
 
