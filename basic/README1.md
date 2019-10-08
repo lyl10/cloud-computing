@@ -35,9 +35,9 @@
 [Xshell官网](http://www.xshellcn.com/)下载Xshell6
 
 安装Xshell
-  Xshell的安装特别简单，没有特别需要注意的，基本上就是单击“下一步”按钮。
+   Xshell的安装特别简单，没有特别需要注意的，基本上就是单击“下一步”按钮。
 
- 通过Xshell连接腾讯云服务器
+   通过Xshell连接腾讯云服务器
 
 打开Xshell
 
@@ -52,30 +52,28 @@
 ![1.9](../image/1.9.png)
 ![2.0](../image/2.0.png)
 
-在用户身份验证上按如下填写：
-用户：root
-密码：刚刚你重置的腾讯云实例的密码
+  在用户身份验证上按如下填写：
+  用户：root
+  密码：刚刚你重置的腾讯云实例的密码
 
 ![2.1](../image/2.1.png)
 
-点击连接
-连接成功
+  点击连接
+  连接成功
 
 ![2.2](../image/2.2.png)
 
-
-#本地安装VMware Workstation和CentOS操作系统
-
+# 本地安装VMware Workstation和CentOS操作系统
 
 1.自行下载安装VMware WorkStation
 
-任何版本都行，视自己机器的配置而定，比如VMware WorkStation9，12，或者15都可，版本越高要求的机器配置越高。
+    任何版本都行，视自己机器的配置而定，比如VMware  WorkStation9，12，或者15都可，版本越高要求的机器配置越高。
 
-我安装的是VMware Workstation Player 15 比VMware Workstation 15更小更轻量级，学生党推荐！
+    我安装的是VMware Workstation Player 15 比VMware Workstation 15更小更轻量级，学生党推荐！
 
-[VMware Workstation Player](https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html)是在 Windows 或 Linux PC 上运行单一虚拟机的理想实用程序。各类组织利用 Workstation Player 交付代管企业桌面，而学生和教育工作者则用它来进行学习和培训。
+    [VMware Workstation Player](https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html)是在 Windows 或 Linux PC 上运行单一虚拟机的理想实用程序。各类组织利用 Workstation Player 交付代管企业桌面，而学生和教育工作者则用它来进行学习和培训。
 
 2.下载[CentOS7.6](http://mirrors.aliyun.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso)
 
 3.在VMware WorkStation安装CentOS操作系统
-安装推荐[教程](https://www.runoob.com/w3cnote/vmware-install-centos7.html)
+  安装推荐[教程](https://www.runoob.com/w3cnote/vmware-install-centos7.html)
