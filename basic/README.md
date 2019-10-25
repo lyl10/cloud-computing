@@ -119,8 +119,10 @@ remote_repository_URL替换为刚才拷贝的项目的URL。说明，origin指�
 ###git 一次性 add多个文件或提交多次修改
 
 >git  add --all
-git commit -m 'add more files'
-git push origin master
+
+>git commit -m 'add more files'
+
+>git push origin master
 
 ![17](../image/17.png)
 
@@ -133,8 +135,12 @@ git push origin master
 
 你所创建的文件已经上传上去了。
 再之后，你只需要将你的代码，放到库的对应的文件夹中，然后使用
-git add 
-git commit -m 
+>git add 
+
+>git commit -m 
+
 最后
-git push origin master
+
+>git push origin master
+
 将你的代码提交就可以了。
