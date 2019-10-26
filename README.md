@@ -30,12 +30,14 @@
 
 **basic**:（实验1）
 
-+ README.md   
++ README.md
      [GitHub基本使用](https://github.com/lyl10/cloud-computing/blob/master/basic/README.md)
 
-+ README1.md     
++ README1.md
  [购买腾讯云服务器，Xshell的简单配置](https://github.com/lyl10/cloud-computing/blob/master/basic/README1.md)
 时
+
 **Website**：（实验2）
-+ 2.md     
+
++ 2.md
 [centos下Wordpress个人网站的搭建](https://github.com/lyl10/cloud-computing/blob/master/Website/2.md)
