@@ -35,7 +35,6 @@
 
 + README1.md
  [购买腾讯云服务器，Xshell的简单配置](https://github.com/lyl10/cloud-computing/blob/master/basic/README1.md)
-时
 
 **Website**：（实验2）
 
