@@ -1,4 +1,5 @@
-#购买腾讯云服务器并登录
+# 购买腾讯云服务器并登录
+
 1.购买[腾讯云服务器 学生套餐](https://cloud.tencent.com/act/campus?fromSource=gwzcw.2432747.2432747.2432747&utm_medium=cpc&utm_id=gwzcw.2432747.2432747.2432747)
 
 ![1.1](../image/1.1.png)
@@ -63,7 +64,7 @@
 
 ![2.2](../image/2.2.png)
 
-# 本地安装VMware Workstation和CentOS操作系统
+## 本地安装VMware Workstation和CentOS操作系统
 
 1.自行下载安装VMware WorkStation
 

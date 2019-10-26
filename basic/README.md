@@ -1,11 +1,13 @@
-#GitHub简介
+# GitHub简介
 
 GitHub是一个面向开源及私有软件项目的托管平台，因为只使用git 作为唯一的版本库格式进行托管，故名GitHub。
 
 GitHub于2008年4月10日正式上线，除了Git代码仓库托管及基本的 Web管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。目前，其注册用户已经超过350万，托管版本数量也是非常之多，其中不乏知名开源项目 Ruby on Rails、jQuery、python 等。
-#GitHub新手使用手册 
 
-##1.GitHub注册并创建库
+## GitHub新手使用手册
+
+## 1.GitHub注册并创建库
+
 + 进入官网进行注册  [GitHub官网](https://github.com/)
 ![1](../image/1.png)
 
@@ -24,8 +26,10 @@ GitHub于2008年4月10日正式上线，除了Git代码仓库托管及基本的 
 
   在创建完成自己的库之后，下面就要让自己的电脑克隆一个自己所创建的库，方面自己电脑上的代码同步到GitHub你所创建的库当中。
   为了实现，就需要安装一个软件，Git。
-##2.安装Git 配置ssh
- + [git-scm.com](https://git-scm.com/)  首先进入GitHub官网，下载适合自己电脑的版本
+
+## 2.安装Git 配置ssh
+
++ [git-scm.com](https://git-scm.com/)  首先进入GitHub官网，下载适合自己电脑的版本
 ![4](../image/4.png)
 
 + 下载完安装包之后运行
@@ -89,34 +93,45 @@ GitHub于2008年4月10日正式上线，除了Git代码仓库托管及基本的 
 ![15](../image/15.png)
 
 接下来将在此文件夹添加刚才创建的GitHub的项目
+
 + 初始化本地文件夹作为一个Git仓库
+
 >git init
+
 + 添加远程代码仓库的URL(刚才拷贝的GitHub网站中的项目网址)
+
 >git remote add origin remote_repository_URL
 
 remote_repository_URL替换为刚才拷贝的项目的URL。说明，origin指代远程代码仓库（GitHub中），master表示本地的主分支。验证一下添加是否成功：
 >git remote -v
 
 + 首先从远程代码仓库拉取数据
+
 >git pull origin master
 
 ![16](../image/16.png)
 
 + 新建README文档，README文档是每个GitHub项目必备，说明项目内容。上文没有创建，在此处完成。
+
 >touch README.md
+
 + 添加文件夹中的所有文件：
+
 >git add .
 
 + 提交文件：
+
 >git commit -m “First commit”
 
 注意commit只在本地提交，并未同步到远程服务器。
 
 + 推送本地更新至远程服务器：
+
 >git push -u origin master
 
 注意：这里必须首先从GitHub拉取数据，很多教程上忽略这个步骤。这样容易导致出现本地版本和远程版本冲突的困境。
-###git 一次性 add多个文件或提交多次修改
+
+### git 一次性 add多个文件或提交多次修改
 
 >git  add --all
 
