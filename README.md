@@ -15,13 +15,14 @@
 
 + 2.md
 [centos下Wordpress个人网站的搭建](https://github.com/lyl10/cloud-computing/blob/master/Website/2.md)
-
++ 3.md
+[修改WordPress中上传附件2M大小限制的方法](https://github.com/lyl10/cloud-computing/blob/master/Website/3.md)
 **docker**：(实验3)
 
 + 1.md
-[Docker基础实验]()
+[Docker基础实验](https://github.com/lyl10/cloud-computing/blob/master/docker/1.md)
 + 2.md
-[利用Dockerfile文件创建包含WordPress的镜像]()
+[利用Dockerfile文件创建包含WordPress的镜像](https://github.com/lyl10/cloud-computing/blob/master/docker/2.md)
 
 ## 云计算概念
 
