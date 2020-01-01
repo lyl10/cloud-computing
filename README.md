@@ -27,7 +27,7 @@
 
 **ceph**：(实验4)
 + 4.md
-[Ceph的安装与实践]()
+[Ceph的安装与实践](https://github.com/lyl10/cloud-computing/blob/master/ceph/ceph.md)
 
 ## 云计算概念
 
